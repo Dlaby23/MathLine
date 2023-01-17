@@ -1,0 +1,14 @@
+C:\Users\brog\iCloudDrive\School\Coding\Math\C#\Math Line Graph\Math Line Graph\bin\Debug\Math_Line_Graph.exe
+C:\Users\brog\iCloudDrive\School\Coding\Math\C#\Math Line Graph\Math Line Graph\bin\Debug\Math_Line_Graph.pdb
+C:\Users\brog\iCloudDrive\School\Coding\Math\C#\Math Line Graph\Math Line Graph\obj\Debug\Math Line Graph.csproj.AssemblyReference.cache
+C:\Users\brog\iCloudDrive\School\Coding\Math\C#\Math Line Graph\Math Line Graph\obj\Debug\Math Line Graph.csproj.SuggestedBindingRedirects.cache
+C:\Users\brog\iCloudDrive\School\Coding\Math\C#\Math Line Graph\Math Line Graph\obj\Debug\Math Line Graph.csproj.CoreCompileInputs.cache
+C:\Users\brog\iCloudDrive\School\Coding\Math\C#\Math Line Graph\Math Line Graph\obj\Debug\Math_Line_Graph.exe
+C:\Users\brog\iCloudDrive\School\Coding\Math\C#\Math Line Graph\Math Line Graph\obj\Debug\Math_Line_Graph.pdb
+C:\Users\cabal\OneDrive\Plocha\projekt2023\Math Line Graph\Math Line Graph\bin\Debug\Math_Line_Graph.exe
+C:\Users\cabal\OneDrive\Plocha\projekt2023\Math Line Graph\Math Line Graph\bin\Debug\Math_Line_Graph.pdb
+C:\Users\cabal\OneDrive\Plocha\projekt2023\Math Line Graph\Math Line Graph\obj\Debug\Math Line Graph.csproj.AssemblyReference.cache
+C:\Users\cabal\OneDrive\Plocha\projekt2023\Math Line Graph\Math Line Graph\obj\Debug\Math Line Graph.csproj.SuggestedBindingRedirects.cache
+C:\Users\cabal\OneDrive\Plocha\projekt2023\Math Line Graph\Math Line Graph\obj\Debug\Math Line Graph.csproj.CoreCompileInputs.cache
+C:\Users\cabal\OneDrive\Plocha\projekt2023\Math Line Graph\Math Line Graph\obj\Debug\Math_Line_Graph.exe
+C:\Users\cabal\OneDrive\Plocha\projekt2023\Math Line Graph\Math Line Graph\obj\Debug\Math_Line_Graph.pdb
